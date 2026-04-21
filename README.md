@@ -74,7 +74,7 @@ sudo apt install qt6-base-dev libmpg123-dev libmp3lame-dev cmake
 ## Build
 
 ```bash
-git clone https://github.com/annagalstyan14/audio-editor.git
+git clone https://github.com/anngalstyan/audio-editor.git
 cd audio-editor
 mkdir build && cd build
 cmake ..
