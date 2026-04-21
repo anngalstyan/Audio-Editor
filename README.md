@@ -2,7 +2,7 @@
 
 A desktop audio editor built in C++17 with Qt6, featuring real-time effects, waveform visualization, undo/redo, and subtitle/caption support.
 
-![screenshot](assets/screenshots/preview.png)
+![screenshot](assets/screenshots/AudioEditor.png)
 
 ---
 
