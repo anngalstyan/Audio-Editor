@@ -110,7 +110,3 @@ A sample caption file is included in `samples/` to test caption loading.
 - Waveform rendering performance on very long files — currently peak-based but could use progressive loading
 
 ---
-
-## License
-
-MIT
